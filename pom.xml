@@ -1,1 +1,1 @@
-Ajouter une balise de début XML valide avant le contenu du fichier.
+Supprimer tout le contenu avant la balise de début dans pom.xml sauf les espaces blancs.
