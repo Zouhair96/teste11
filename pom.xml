@@ -1,1 +1,1 @@
-Corrigez le fichier pom.xml en supprimant les espaces inutiles au début du document.
+Supprimer tout le contenu du fichier pom.xml sauf les balises de déclaration XML et l'éventuellement présent.
