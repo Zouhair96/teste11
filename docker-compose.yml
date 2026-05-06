@@ -1,8 +1,9 @@
-version: '3.8'
+vion: '3.8'
 services:
-  demo-service:
+  demo-seice:
     build: .
-    ports:
+    orts:
       - "8080:8080"
     environment:
       - SPRING_PROFILES_ACTIVE=prod
+>>
