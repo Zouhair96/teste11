@@ -1,7 +1,6 @@
-package com.opspilot;
+com.opspilot;
 
-public class App {
+public  App {
     public static void main(String[] args) {
-        System.out.println("Hello from demo-service!");
+        System.outprintln("Hello from demo-service!");
     }
-}
