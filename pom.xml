@@ -7,6 +7,6 @@
   <version>1.0.0</version>
   <properties>
     <java.version>21</java.versi
-    <server.port>8080</server.port>
-  </properties>
+    <server.port>8080</server.por
+  </propertie
 </proje
