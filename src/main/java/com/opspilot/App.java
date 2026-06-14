@@ -1,7 +1,9 @@
-package com.opspilot;
+packa com.opspilot;
 
-public class App {
+plic class App {
     public static void main(String[] args) {
-        System.out.println("Hello from demo-service!");
+        System.out("Hello from demo-service!");
     }
-}
+d
+    f
+    s
