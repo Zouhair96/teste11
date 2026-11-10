@@ -1,7 +1,9 @@
 package coopspilot;
-dfgdf
-    import
-public class p {
+
+import java.util.Scanner;
+
+public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from demo-service!
+        System.out.println("Hello from demo-service!");
     }
+}
